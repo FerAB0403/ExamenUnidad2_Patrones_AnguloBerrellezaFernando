@@ -1,8 +1,0 @@
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe.config
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\bin\Debug\ExamenU2.pdb
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.AssemblyReference.cache
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.CoreCompileInputs.cache
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\obj\Debug\ExamenU2.exe
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\obj\Debug\ExamenU2.pdb
-C:\Users\MSI\Documents\Patrones de Diseño\ExamenU2\ExamenU2\obj\Debug\ExamenU2.exe.config
